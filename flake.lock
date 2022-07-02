@@ -75,11 +75,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656298043,
-        "narHash": "sha256-7pS65TmZOz0G/3DhBShbE45DntzaAcXzK5+U3aeWNbE=",
+        "lastModified": 1656301202,
+        "narHash": "sha256-guN4CJsbqul9VM1pEyHpIZfjp5SLL2JXEvmDdIFi5jI=",
         "owner": "nim-nix-pkgs",
         "repo": "redpool",
-        "rev": "7afafca4f4ddd479e77a0ec7867173a687b17bec",
+        "rev": "037528ab5f57db0c3f05792e5d8611bfac0c6b2b",
         "type": "github"
       },
       "original": {
